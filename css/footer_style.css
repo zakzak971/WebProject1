@@ -1,0 +1,41 @@
+html,body,div,img,h2,span,input,button {
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+@font-face {
+    font-family: "CyrillicCooper Normal";
+    src: url("fonts/CyrillicCooper Normal.ttf");
+}
+body{
+	background-color: #F9FDFD;
+	font-family:tahoma,arial,verdana,sans-serif,Lucida ;
+	font-size:16px ;
+	font-weight:400 ;
+	font-style:normal ;
+	color:#666666 ;
+	text-transform:none ;
+	text-decoration:none ;
+	letter-spacing:normal ;
+	word-spacing:0 ;
+	line-height:15.3833px ;
+	text-align:left ;
+	vertical-align:baseline ;
+	direction:ltr ;
+}
+p{
+	font-family:tahoma,arial,verdana,sans-serif,Lucida ;
+	color:#666666; 
+}
+h1{
+	text-align: center;
+	font-size: 45px;
+	color: #666666;
+}
+.col-md-2 {
+	height: 700px;
+	background-color: #ff751a;
+}
+.text-center{
+	margin-top: 10%;
+}

@@ -1,0 +1,142 @@
+html,body,div,img,h2,span,input,button {
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+body{
+	background-color: #F9FDFD;
+	font-family:tahoma,arial,verdana,sans-serif,Lucida ;
+	font-size:18px ;
+	font-weight:400 ;
+	font-style:normal ;
+	color:#666666;
+	text-transform:none ;
+	text-decoration:none ;
+	letter-spacing:normal ;
+	word-spacing:0 ;
+	line-height:15.3833px ;
+	text-align:left ;
+	vertical-align:baseline ;
+	direction:ltr ;
+}
+i{
+	color:#2B587A ;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
+h1{
+	font-size: 60px;
+	font-weight: bold;
+}
+h2{
+	font-size: 45px;
+	margin-left: 15px;
+}
+hr{
+	background-color: #33ccff;
+	height: 3px;
+	width: 100%;
+}
+pre{
+	text-align: center;
+	font-size: 25px;
+	width: 100%;
+	background-color: white;
+	color: #666666;
+	border: 2px solid #ff751a;
+}
+.header{
+	background-color: #ff751a;
+	height: 310px;
+	width: 100%;
+	text-align: center;
+	color: white;	
+}
+.title{
+	padding: 25px;
+}
+
+.form{
+	border: 2px solid #ff751a;
+	width: 400px;
+	height: 340px;
+	margin-left: 36%;
+	margin-top: 70px;
+	border-radius: 45px;
+	padding: 10px;
+	text-decoration: none;
+}
+.reg {
+	color: #33ccff;
+	font-size: 19px;
+}
+.reg:hover {
+	color: #33ccff;
+}
+.text-field{
+	padding: 10px;
+	margin-top: 35px;
+	border: 2px solid #33ccff;
+	border-radius: 22px;
+	font-size: 18px;
+	background-color: white;
+	
+}
+.btn {
+	margin-top: 20px;
+	padding: 1	0px;
+	width: 100px;
+	border-radius: 25px ;
+	background-color: #ff751a;
+	color:  white;
+	width:150px;
+	font-size: 17px;
+
+}
+.btn:hover{
+	background-color: #33ccff;
+	color:white;
+}
+.remember{
+	margin-top: 20px;
+}
+#resSearch{
+	color: red;
+	padding: 10px;
+}
+
+.images{
+	height: 300px;
+	margin-top: 130px;
+}
+.photo{
+	float: left;
+	margin-left: 15%;
+} 
+.images img{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	border:4px solid #ff751a;
+}
+.images p{
+	margin-left: 80px;
+	margin-top: 15px;
+}
+.images i{
+	margin-left: 40px;
+}
+
+.footer{
+	background-color: #ff751a;
+	height: 90px;
+
+}
+.footer a:hover{
+	color: white;
+}

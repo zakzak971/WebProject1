@@ -1,0 +1,42 @@
+#name{
+		font-size: 23px;
+}
+hr{
+	clear: both;
+	margin-top: 50px; 
+}
+#buttons{
+	margin-top: 40px;
+
+}
+.content{
+	margin-top: 0px;
+	padding: 20px;
+}
+.content ul a{
+	color: #666666;
+}
+.content img{
+	width: 150px;
+	height: 150px;
+	padding: 3px;
+	border: 2px solid #ff751a;
+}
+.friend_links {
+	margin-left:200px;
+	margin-top: -160px;
+}
+.friend_links ul{
+	margin-top: 0px;
+	margin-left: -30px;
+}
+#apply{
+	margin-left:500px;
+	margin-top: -110px;
+	width: 200px;	
+}
+.btn-success{
+	padding: 10px;
+	margin-top: 5px;
+	margin-left: 9px;
+}

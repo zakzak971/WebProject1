@@ -1,0 +1,71 @@
+
+.main-foto{
+	width: 270px;
+	height: 270px;
+	border: 3px solid orange;
+	border-radius: 200px;
+	padding: 3px;
+
+}
+.middle-column{
+	text-align: center;
+	color:#666666;
+	margin-top: 50px;
+	margin-left: 30px;
+	padding: 10px;
+	font-weight: bold;
+
+}
+.putimg{	
+	color: black;
+	font-size: 16px;
+	
+}
+.name{
+	padding: 30px;
+	font-size: 27px;
+}
+#btn{
+	width: 250px;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.info{
+	font-size: 14px;
+}
+.info-left{
+	float: left;
+}
+.info-right{
+	float: right;
+}
+.info hr{
+clear: both;
+}
+#change_info{
+	color: black;
+	font-size: 18px;
+}
+.vr{
+	border-width:  0 0 0 1px;
+	border-style: solid;
+	float: left;
+	height: 100px;
+	width: 1px;
+	margin-left: 290px;	
+	margin-top: -10px;
+}
+.about{
+	margin-top:50px;
+	font-size: 14px;
+}
+.itemactive,.item{
+	width: 500px;
+	height: 500px;
+	margin-left: 170px;
+}
+#friends{
+	color: black;
+	margin-top: 40px;
+}

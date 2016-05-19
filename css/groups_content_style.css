@@ -1,0 +1,32 @@
+.col-md-2 {
+	height: 1450px;
+	background-color: #ff751a;
+}
+.group-foto{
+	width: 300px;
+	height: 300px;
+	border: 3px solid orange;
+	border-radius: 5px;
+	padding: 3px;
+	margin-left: -50px;	
+	margin-top: -100px;
+}
+.group-name{
+	font-size: 30px;
+	font-weight:bold;
+	margin: 30px;
+}
+.btn{
+	width: 200px;
+	height: 50px;
+	border-radius: 10px ;
+	background-color: #ff751a;
+	color:  white;
+	font-size: 20px;
+	margin-top: 400px;
+	margin-left: -250px;
+}
+.btn:hover{
+	background-color: #33ccff;
+	color: white;
+}

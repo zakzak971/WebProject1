@@ -1,0 +1,95 @@
+html,body,div,img,h2,span,input,button {
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+@font-face {
+    font-family: "CyrillicCooper Normal";
+    src: url("fonts/CyrillicCooper Normal.ttf");
+}
+body{
+	background-color: #F9FDFD;
+	font-family:tahoma,arial,verdana,sans-serif,Lucida ;
+	font-size:16px ;
+	font-weight:400 ;
+	font-style:normal ;
+	color:#666666; 
+	text-transform:none ;
+	text-decoration:none ;
+	letter-spacing:normal ;
+	word-spacing:0 ;
+	line-height:15.3833px ;
+	text-align:center; ;
+	vertical-align:baseline ;
+	direction:ltr ;
+}
+p{
+	font-family:tahoma,arial,verdana,sans-serif,Lucida ;
+	
+}
+input {
+	color:#2B587A ; 
+}
+
+h1{
+	text-align: center;
+	font-size: 45px;
+}
+h2{
+	margin: 50px;
+}
+select{
+	border: 2px solid #33ccff;
+	padding: 5px;
+	margin:10px;
+	border-radius: 10px;
+}
+.col-md-2 {
+	height: 1500px;
+	background-color: #ff751a;
+}
+#right{
+	border-right: 4px solid #33ccff;
+}
+#left{
+	border-left: 4px solid #33ccff;
+}
+.form{
+	
+	width: 400px;
+	height: 500px;
+	margin-left: 28%;
+	margin-top: 70px;
+	border-radius: 45px;
+
+	text-decoration: none;
+}
+
+.input{
+	padding: 10px;
+	margin-top: 20px;
+	border: 2px solid #33ccff;
+	border-radius: 22px;
+	font-size: 20px;
+	background-color: white;
+}
+#about{
+	border-radius: 12px;
+	height: 300px;
+	width: 600px;
+	margin-left: -100px;
+	margin-top: 50px;
+}
+.btn{
+	margin-top:30px;
+	padding: 10px;
+	width: 200px;
+	border-radius: 25px ;
+	background-color: #ff751a;
+	color:  white;
+}
+.btn:hover{
+	background-color: #33ccff;
+	color: white;
+
+}
